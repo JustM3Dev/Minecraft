@@ -1,6 +1,6 @@
 # pyCraft - fixed
 
-![pyCraft](https://raw.github.com/JustM3Dev/Minecraft/master/capture.JPG)
+![pyCraft](https://raw.github.com/JustM3Dev/Minecraft/master/Capture.JPG)
 =======
 
 
