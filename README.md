@@ -1,6 +1,3 @@
-# pyCraft - fixed
-
-![pyCraftr](https://raw.github.com/JustM3Dev/Minecraft/master/capture.JPG)
 
 **Simple Minecraft-inspired demo written in Python and Pyglet.**
 
