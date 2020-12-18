@@ -1,5 +1,5 @@
 # pyCraftr
-
+### Changelog: changelog.md
 ![pyCraftr](https://raw.github.com/boskee/Minecraft/master/screenshot.png)
 
 **Simple Minecraft-inspired demo written in Python and Pyglet.**
