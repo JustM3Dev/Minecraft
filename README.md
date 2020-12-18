@@ -1,5 +1,6 @@
 # pyCraft - fixed
-
+### Wanna see what changed? [Click here!](https://github.com/JustM3Dev/Minecraft/blob/master/changelog.md "Changelog")
+=======
 ![pyCraft](https://raw.github.com/JustM3Dev/Minecraft/master/Capture.JPG)
 =======
 

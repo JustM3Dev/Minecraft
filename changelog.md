@@ -9,4 +9,4 @@
 ##### Somethings still not working?
 ##### Ask me in the github issues tab.
 #
-###### You are allowed to fork this git and improve or remix it!
+###### Feel free to improve this git by forking it and changing it up!
